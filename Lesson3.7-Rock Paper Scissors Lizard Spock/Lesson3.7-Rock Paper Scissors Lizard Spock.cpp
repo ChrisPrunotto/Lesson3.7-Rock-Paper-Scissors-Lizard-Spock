@@ -62,7 +62,7 @@ int main()
 		{
 			result = "You win!";
 		}
-		else if (computerChoice == 3 || computerChoice == 5)
+		else if (computerChoice == 3 || computerChoice == 4)
 		{
 			result = "You lose!";
 		}
